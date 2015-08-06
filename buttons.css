@@ -1,0 +1,52 @@
+#buttons {
+	position:relative;
+	width:75%;
+	height:100px;
+	left:20%;
+	color:blue;
+	font-size: 30px;
+	text-decoration:none;
+}
+#but1 {
+	position:relative;
+	width:23%;
+	height:50%;
+	top:50%;
+	left:1%;
+	border: 2px outset black;
+	text-decoration:none;
+	
+}
+#but2 {
+	position:relative;
+	top:50%;
+	width:23%;
+	left:10%;
+	border: 2px outset black;
+	text-decoration:none;
+	
+}
+#but3 {
+	position:relative;
+	top:50%;
+	width:23%;
+	left:20%;
+	border: 2px outset black;
+	text-decoration:none;
+	
+}
+#but4 {
+    position:relative;
+    top:50%;
+	width:23%;
+	left:30%;
+	border: 2px outset black;
+	text-decoration:none;
+	
+}
+a:hover {
+	background: black;
+	color:white;
+	text-decoration:underline;
+
+}
